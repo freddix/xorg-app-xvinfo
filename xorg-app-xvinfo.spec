@@ -1,11 +1,11 @@
 Summary:	xvinfo application
 Name:		xorg-app-xvinfo
-Version:	1.1.1
+Version:	1.1.2
 Release:	1
 License:	MIT
 Group:		X11/Application
 Source0:	http://xorg.freedesktop.org/releases/individual/app/xvinfo-%{version}.tar.bz2
-# Source0-md5:	c88feb501083951a8f47a21aaeb1529d
+# Source0-md5:	1fbd65e81323a8c0a4b5e24db0058405
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
